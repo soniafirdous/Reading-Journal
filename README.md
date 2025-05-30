@@ -1,5 +1,8 @@
 📚 Personal Reading Journal and Quote Collector
 ![image alt](https://github.com/soniafirdous/Reading-Journal/blob/master/fileh.png?raw=true)
+
+
+
 A command-line Python application to help users log the books they've read and collect their favorite quotes. 
 Built using Python basics—control flow, data structures, functions, string operations, and file handling—without any external libraries.
 
